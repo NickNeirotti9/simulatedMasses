@@ -1,0 +1,43 @@
+Each simulated phantom contains 15 masses built using the base parameters below while targeting
+one specific parameter in order to determine it's effect on mass malignancy scores.
+
+meanInitScatteredPhantom: Tests values between 1000-3000
+meanInitRadScatteredPhantom: Tests values between 0.02-0.05
+meanRadDecScatteredPhantom: Tests values between 0.8-1.22
+meanInitLenScatteredPhantom: Tests values between 0.2-0.5
+meanLenDecScatteredPhantom: Tests values between 0.8-1.22
+meanContProbScatteredPhantom: Tests values between 0.8-1.22
+
+Base Parameters:
+# mean number of initial segments
+meanInitial=1500
+# std. deviation number of initial segments
+stdInitial=50
+# mean max number of neighbor segments
+meanNeigh=8.98
+# std. deviation max number of neighbor segments
+stdNeigh=1.89
+# mean initial relative radius
+meanInitRad=0.03
+# std. deviation initial relative radius
+stdInitRad=0.0053
+# mean radius decrease
+meanRadDec=0.89
+# std. deviation radius decrease
+stdRadDec=0.31
+# mean initial relative radius
+meanInitLen=0.2
+# std. deviation initial relative radius
+stdInitLen=0.018
+# mean length decrease
+meanLenDec=0.91
+# std. deviation length decrease
+stdLenDec=0.3
+# mean continue prob.
+meanContProb=0.717
+# std. deviation continue prob.
+stdContProb=0.057
+# mean branch angle.
+meanBranchAng=6.55
+# std. deviation branch angle.
+stdBranchAng=0.62
