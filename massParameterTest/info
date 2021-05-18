@@ -1,5 +1,5 @@
 Each simulated phantom contains 15 masses built using the base parameters below while targeting
-one specific parameter in order to determine it's effect on mass malignancy scores.
+one specific parameter in order to determine its effect on mass malignancy scores.
 
 meanInitScatteredPhantom: Tests values between 1000-3000
 meanInitRadScatteredPhantom: Tests values between 0.02-0.05
