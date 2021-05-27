@@ -1,0 +1,6 @@
+2 templates that contain 3 different sized calcs. 
+The purpose of this is to make the clusters more realistic with increased calc size diversity and to determine how this addition impacts classification difficulty.
+These templates will have more accurate larger calc distribution due to improved methodology.
+Both templates contain 5 clusters spaced by 35mm using HA 1.9 density calcs.
+10mm, 150-180: 7, 180-212: 2, 212-250: 2
+20mm, 150-180: 18, 180-212: 2, 212-250: 2
