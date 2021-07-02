@@ -1,0 +1,7 @@
+All masses are 5mm in diameter with 0.07mm voxel size.
+
+Size of image found at end of filename
+E.g. L1mass_-1525497877_227.raw = 227x227 pixels
+
+L: 10 masses with lobular distortions without spiculations.
+S: 10 masses with lobular distortions and spiculations.
