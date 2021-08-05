@@ -1,0 +1,11 @@
+All masses are 5mm in diameter with 0.07mm voxel size.
+
+Size of image found at end of filename
+i.e. L1mass_-1525497877_227.raw = 227x227 pixels
+
+Images can be opened in ImageJ by setting the width, height, and number of images to the appropriate size.
+Adjust Win/Lev to level: 0 and window width: 1 to view the mass.
+
+L: 25 masses with lobular distortions without spiculations.
+S: 25 masses with lobular distortions and spiculations.
+
